@@ -152,5 +152,8 @@
       }
     }
   },
-  "defaultProject": "go-fullstack-activity"
+  "defaultProject": "go-fullstack-activity",
+  "cli": {
+    "analytics": "4024d300-e5e3-41f9-a703-bc1d9e49fd32"
+  }
 }
